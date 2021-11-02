@@ -49,10 +49,18 @@ body{
   border-radius: 20px;
 }
 
+.title{
+  color:#fff;
+  font-family: 'textFont';
+  text-align: center;
+  font-size: 1.5em;
+  padding-right: 10em;
+}
+
 .box{
 
   width: 50%;
-  height: 50vh!important;
+  height: 60vh!important;
   background: #f6fafb;
   padding: 2em;
   margin: 2em;
@@ -81,6 +89,12 @@ body{
   margin-top: 2em ;
   margin-bottom: 2em;
 
+}
+
+.box button{
+   margin-top: 3em;
+  display: flex;
+  padding: 0.5em 2em 0.5em 2em ;
 }
 
 

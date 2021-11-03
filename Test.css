@@ -30,6 +30,7 @@ body {
 
 /* End Of Globale Styles */
 
+/*  Main Container Styles  */
 #mainContainer {
   width: 90%;
   height: 70vh !important;
@@ -62,6 +63,9 @@ body {
   -webkit-text-fill-color: transparent;
 }
 
+/* End Main Container Styles  */
+
+/* Price Plan Styles */
 .box {
   width: 50%;
   height: 60vh !important;
@@ -75,6 +79,7 @@ body {
   padding: 2em 2em 1em 2em;
   line-height: 1.4em;
 }
+
 
 .box h4 {
   font-family: "headerFont";
@@ -117,6 +122,8 @@ body {
   border-radius: 20px;
 }
 
+/* End Of Price Plan Styles */
+
 /* Btn Hover Styles Section */
 
 .box button:hover {
@@ -132,4 +139,4 @@ body {
   transition: all 0.5s ease;
   padding: 0.6em;
 }
-/* Btn Hover Styles Section */
+/* End Of Btn Hover Styles Section */
